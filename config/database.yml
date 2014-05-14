@@ -20,5 +20,5 @@ test:
 
 production:
   adapter: postgresql
-  database: db/trr-production
+  database: db/trr
   timeout: 5000
